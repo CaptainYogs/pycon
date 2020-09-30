@@ -9,7 +9,7 @@ Rather than use this as the basis for your conference site directly, you should
 instead look at https://github.com/pinax/symposion which was designed for reuse.
 
 PyCon 2019 is built on top of Pinax Symposion but may have customizations that
-will just make things more difficult for you.
+will just make things more difficult for you.Not so user friendly but definetely a good website.
 
 Installation instructions are in this README.  There's more documentation
 at https://readthedocs.org/projects/pycon/.
